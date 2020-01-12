@@ -21,7 +21,7 @@
 5)House prise - стандартная задача 
 регрессии о прогнозировании цены на дом;
 
-6) Clothesclassifier - исследование 
+6) Clothes classifier - исследование 
 fashion MNIST dataset. Распознование осуществлялось 
 при помощи FFNN;
 
